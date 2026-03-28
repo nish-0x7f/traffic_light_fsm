@@ -1,11 +1,11 @@
 // 1. Pin Definitions
-const int EW_GREEN  = 8;
-const int EW_YELLOW = 9;
+const int EW_GREEN  = 17;
+const int EW_YELLOW = 6;
 const int EW_RED    = 10;
 const int NS_GREEN  = 11;
 const int NS_YELLOW = 12;
 const int NS_RED    = 13;
-const int PED_BUTTON = 2;
+const int PED_BUTTON =2;
 
 // 2. FSM States
 enum TrafficState {
