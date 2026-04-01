@@ -6,10 +6,6 @@ of traffic light FSM using millis() and Tinkercad simulation.
 - Implemented safe debouncing in main loop.
 - Improved system reliability and structure.
 
-## added Demo Run using Arduino Nano
-
-![Traffic Light FSM](docs\videos\demo_run.mp4")
-
 ## FSM Diagram
 
 ![Traffic Light FSM](docs/fsm_diagram/state_machine.png)
