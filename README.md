@@ -8,8 +8,9 @@ of traffic light FSM using millis() and Tinkercad simulation.
 
 ## added Demo Run using Arduino Nano
 
-![Traffic Light FSM](docs/fsm_diagram/state_machine.png)
+![Traffic Light FSM](docs\videos\demo_run.mp4")
 
 ## FSM Diagram
 
-![Traffic Light FSM](docs\videos\demo_run.mp4")
+![Traffic Light FSM](docs/fsm_diagram/state_machine.png)
+
